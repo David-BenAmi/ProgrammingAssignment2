@@ -1,3 +1,9 @@
+# ⚠️ ARCHIVED - Historical Educational Use Only
+
+This repository is archived and no longer maintained. It represents coursework from the R Programming course on Coursera and is kept for historical educational reference purposes only.
+
+---
+
 ### Introduction
 
 This second programming assignment will require you to write an R
